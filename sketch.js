@@ -11,7 +11,7 @@ function setup(){
     engine = Engine.create();
     world = engine.world;
 
-   backgroungImg= loadImage("sprites/bg.png")    
+   backgroungImg= loadImage("bg.png")    
     ground = new Ground(600,height,1200,20)
 
 
